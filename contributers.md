@@ -23,6 +23,8 @@
 [Chirag Jain](https://github.com/chirag-jn/)
 [Abed A11](https://github.com/abedafr)
 [codyteo] (https://github.com/codyteo)
+[Sohil Ladhani](https://github.com/sohilladhani)
+
 
 
 
