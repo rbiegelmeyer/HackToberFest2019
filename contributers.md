@@ -28,6 +28,7 @@
 [Feysal Ikbal](https://github.com/feysalikbal)
 [Kucha](https://github.com/Kucha1122)
 [John Victor](https://github.com/johnvict0r)
+[Pranay Saha](https://github.com/PranaySaha97)
 
 
 
