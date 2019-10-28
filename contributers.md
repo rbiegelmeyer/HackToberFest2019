@@ -7,6 +7,7 @@
 
 
 
+
 [UnknownHacker1125](http://github.com/UnknownHacker1125)
 [mtrimarchi](http://github.com/mtrimarchi)
 [MariaMich](https://github.com/MariaMich)
@@ -19,6 +20,8 @@
 [Siddharth Gupta](https://github.com/Siddharth-gupta99)
 [chien](https://github.com/omegachien)
 [Salman Iqbal](https://github.com/salmaniqbal92)
+[Chirag Jain](https://github.com/chirag-jn/)
+
 
 
 
