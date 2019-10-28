@@ -49,9 +49,9 @@
 [dfarley1](https://github.com/dfarley1)
 [Anuj kumar shukla](https://github.com/anujshuklaas)
 [ManuelGil](https://github.com/ManuelGil)
-[kodypeterson]](https://github.com/kodypeterson)
+[kodypeterson](https://github.com/kodypeterson)
 [SRamanauskas](https://github.com/SRamanauskas)
-[Anshuman] (https://github.com/AnshumanPadhi)
+[Anshuman](https://github.com/AnshumanPadhi)
 [Harish Saini](https://github.com/harishsainik)
 [Nguyen](https://github.com/damdauvaotran)
 
