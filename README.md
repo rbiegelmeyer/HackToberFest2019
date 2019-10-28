@@ -4,7 +4,7 @@
 
 1. Open contributers.md
 2. Press the edit button (pencil)
-3. Add your name and link
+3. Add your name and link somewhere random (not the top or the bottom)
 4. Then create your pull request.
 5. A star would be nice
 6. Check your progress here (https://hacktoberfest.digitalocean.com/profile)
