@@ -8,6 +8,7 @@
 
 
 
+
 [UnknownHacker1125](http://github.com/UnknownHacker1125)
 [mtrimarchi](http://github.com/mtrimarchi)
 [MariaMich](https://github.com/MariaMich)
@@ -26,6 +27,7 @@
 [Sohil Ladhani](https://github.com/sohilladhani)
 [Feysal Ikbal](https://github.com/feysalikbal)
 [Kucha](https://github.com/Kucha1122)
+[John Victor](https://github.com/johnvict0r)
 
 
 
