@@ -40,6 +40,7 @@
 [Antti-Pekka Lehtonen](https://github.com/apleht)
 [lilnpuma](https//github.com/lilnpuma)
 [Karan](https://github.com/lookingserious)
+[Antti-Pekka Lehtonen](https://github.com/apleht)
 [issea1484](https://github.com/issea1484)
 [Suman Roy](https://github.com/Sumanrox)
 [Mesrop](https://github.com/mesropandreasyan)
