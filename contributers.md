@@ -43,6 +43,7 @@
 [Antti-Pekka Lehtonen](https://github.com/apleht)
 [lilnpuma](https//github.com/lilnpuma)
 [Karan](https://github.com/lookingserious)
+[Haritha Sajikumar](https://github.com/ammuharitha)
 [Antti-Pekka Lehtonen](https://github.com/apleht)
 [issea1484](https://github.com/issea1484)
 [Suman Roy](https://github.com/Sumanrox)
