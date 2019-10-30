@@ -25,6 +25,7 @@
 [Sohil Ladhani](https://github.com/sohilladhani)
 [Feysal Ikbal](https://github.com/feysalikbal)
 [Kucha](https://github.com/Kucha1122)
+[Noorul](https://github.com/noorhas6)
 [John Victor](https://github.com/johnvict0r)
 [Pranay Saha](https://github.com/PranaySaha97)
 [Hackin7](https://github.com/Hackin7) 
