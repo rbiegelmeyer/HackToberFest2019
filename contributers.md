@@ -57,6 +57,7 @@
 [kodypeterson](https://github.com/kodypeterson)
 [SRamanauskas](https://github.com/SRamanauskas)
 [Anshuman](https://github.com/AnshumanPadhi)
+[samx](https://github.com/samx81)
 [Harish Saini](https://github.com/harishsainik)
 [Nguyen](https://github.com/damdauvaotran)
 [Dwindi Budi Mulia](https://github.com/dwindibudimulia)
