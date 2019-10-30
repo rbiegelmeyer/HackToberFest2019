@@ -66,8 +66,10 @@
 [Dwindi Budi Mulia](https://github.com/dwindibudimulia)
 [Brandonjja](https://github.com/Brandonjja)
 [Dorian](https://github.com/Dor34)
+[Akashdeep Arora](https://github.com/Akashdeep98)
 [Sanidhya Singh](https://github.com/ssingh13-rms)
 [Rian Firgiawan](https://github.com/ardirama)
+
 
 
 
