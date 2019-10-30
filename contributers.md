@@ -25,6 +25,7 @@
 [Sohil Ladhani](https://github.com/sohilladhani)
 [Feysal Ikbal](https://github.com/feysalikbal)
 [Kucha](https://github.com/Kucha1122)
+[Noorul](https://github.com/noorhas6)
 [John Victor](https://github.com/johnvict0r)
 [Pranay Saha](https://github.com/PranaySaha97)
 [Hackin7](https://github.com/Hackin7) 
@@ -43,9 +44,11 @@
 [Antti-Pekka Lehtonen](https://github.com/apleht)
 [lilnpuma](https//github.com/lilnpuma)
 [Karan](https://github.com/lookingserious)
+[Haritha Sajikumar](https://github.com/ammuharitha)
 [Antti-Pekka Lehtonen](https://github.com/apleht)
 [issea1484](https://github.com/issea1484)
 [Suman Roy](https://github.com/Sumanrox)
+[Aaliyah Ahmed](https://github.com/aaliyah03)
 [Mesrop](https://github.com/mesropandreasyan)
 [sahininayanthara](https://github.com/sahininayanthara)
 [Milind Chawre](https://github.com/milindchawre)
@@ -57,12 +60,21 @@
 [kodypeterson](https://github.com/kodypeterson)
 [SRamanauskas](https://github.com/SRamanauskas)
 [Anshuman](https://github.com/AnshumanPadhi)
+[samx](https://github.com/samx81)
 [Harish Saini](https://github.com/harishsainik)
 [Nguyen](https://github.com/damdauvaotran)
 [Dwindi Budi Mulia](https://github.com/dwindibudimulia)
 [Brandonjja](https://github.com/Brandonjja)
 [Dorian](https://github.com/Dor34)
 [Kriti](https://github.com/Kriti021999)
+[Akashdeep Arora](https://github.com/Akashdeep98)
+[Sanidhya Singh](https://github.com/ssingh13-rms)
+[Rian Firgiawan](https://github.com/ardirama)
+
+
+
+
+
 
 
 
