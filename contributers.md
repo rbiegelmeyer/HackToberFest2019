@@ -19,6 +19,7 @@
 [chien](https://github.com/omegachien)
 [Salman Iqbal](https://github.com/salmaniqbal92)
 [jkingz](https://github.com/jkingz)
+[cjtu](https://github.com/cjtu)
 [Chirag Jain](https://github.com/chirag-jn/)
 [Abed A11](https://github.com/abedafr)
 [codyteo](https://github.com/codyteo)
