@@ -14,6 +14,7 @@
 [sljtheultima](http://github.com/sljtheultima)
 [heemza](http://github.com/heemza)
 [AgentEnder](http://github.com/agentender)
+[ddefender](http://github.com/ddefender)
 [Ankit kumar](https://github.com/PrajapatiAnkit)
 [Siddharth Gupta](https://github.com/Siddharth-gupta99)
 [chien](https://github.com/omegachien)
