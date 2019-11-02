@@ -39,6 +39,7 @@
 [3DK](https://github.com/3DKFI)
 [acferreir4](https://github.com/acferreir4)
 [Anuj Singh](https://github.com/underscoreanuj)
+[cbowersock](https://github.com/cbowersock)
 [Maciox55](https://github.com/Maciox55)
 [Antti-Pekka Lehtonen](https://github.com/apleht)
 [lilnpuma](https//github.com/lilnpuma)
