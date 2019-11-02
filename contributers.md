@@ -12,6 +12,7 @@
 [Shelin](https://github.com/shelin938866)
 [sljtheultima](http://github.com/sljtheultima)
 [heemza](http://github.com/heemza)
+[Devil1729](http://github.com/Devil1729)
 [AgentEnder](http://github.com/agentender)
 [Ankit kumar](https://github.com/PrajapatiAnkit)
 [Siddharth Gupta](https://github.com/Siddharth-gupta99)
